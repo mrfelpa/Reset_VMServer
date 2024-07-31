@@ -9,6 +9,8 @@
         $vcenterPassword = password123
         $retryCount = 3 # Number of retry attempts
         $retryDelay = 5 # Delay between retry attempts (in seconds).
+  
+![telaa](https://github.com/user-attachments/assets/9ec1e033-b4d6-487a-9014-f8e2048e5046)
 
 # Remarks
 
